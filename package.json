@@ -1,0 +1,22 @@
+{
+  "name": "mikser-vite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almero-digital-marketing/mikser-vite.git"
+  },
+  "peerDependencies": {
+    "vite": "^2.7.10"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/almero-digital-marketing/mikser-vite/issues"
+  },
+  "homepage": "https://github.com/almero-digital-marketing/mikser-vite#readme"
+}
